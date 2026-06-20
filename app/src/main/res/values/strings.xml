@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Morning English</string>
+
+    <!-- Notification channel -->
+    <string name="channel_playback_name">每日英语播放</string>
+    <string name="channel_playback_desc">早上 6:30 自动播放英语学习视频</string>
+
+    <!-- Notifications -->
+    <string name="notification_title">Morning English</string>
+    <string name="notification_text">正在播放今日英语</string>
+    <string name="action_stop">停止</string>
+
+    <!-- Settings -->
+    <string name="settings_play_time">每日播放时间</string>
+    <string name="settings_enabled">启用定时播放</string>
+    <string name="settings_weekend">周末播放</string>
+    <string name="settings_lock_screen">锁屏覆盖</string>
+    <string name="settings_difficulty">难度</string>
+
+    <!-- Permission screen -->
+    <string name="permission_notification_title">通知权限</string>
+    <string name="permission_notification_desc">播放时显示通知,防止后台被杀</string>
+    <string name="permission_alarm_title">精准闹钟</string>
+    <string name="permission_alarm_desc">Android 12+ 需要单独授权才能精确触发 6:30</string>
+    <string name="permission_battery_title">电池白名单</string>
+    <string name="permission_battery_desc">加入白名单避免被系统杀后台</string>
+
+    <!-- Time formatter -->
+    <string name="time_format_24h">HH:mm</string>
+</resources>

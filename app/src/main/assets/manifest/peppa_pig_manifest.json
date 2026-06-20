@@ -1,0 +1,308 @@
+{
+  "version": 1,
+  "source": "Peppa Pig (Official YouTube Channel, UK English audio)",
+  "license_note": "Personal use only. Do not redistribute.",
+  "total_episodes": 30,
+  "videos": [
+    {
+      "id": "peppa_s01e01",
+      "title": "Peppa Pig S01E01 - Muddy Puddles",
+      "url": "https://www.youtube.com/watch?v=AoSq3h2Ttbg",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 1,
+      "episode": 1,
+      "tags": "peppa,outdoors,family"
+    },
+    {
+      "id": "peppa_s01e02",
+      "title": "Peppa Pig S01E02 - Mr Dinosaur is Lost",
+      "url": "https://www.youtube.com/watch?v=8DiEbeNGxaU",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 1,
+      "episode": 2,
+      "tags": "peppa,toys,bedtime"
+    },
+    {
+      "id": "peppa_s01e03",
+      "title": "Peppa Pig S01E03 - Best Friend",
+      "url": "https://www.youtube.com/watch?v=WXOuQ3jPbqQ",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 1,
+      "episode": 3,
+      "tags": "peppa,friendship,school"
+    },
+    {
+      "id": "peppa_s01e04",
+      "title": "Peppa Pig S01E04 - Polly Parrot",
+      "url": "https://www.youtube.com/watch?v=N-DN4ulcsYo",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 1,
+      "episode": 4,
+      "tags": "peppa,pets,animals"
+    },
+    {
+      "id": "peppa_s01e05",
+      "title": "Peppa Pig S01E05 - Hide and Seek",
+      "url": "https://www.youtube.com/watch?v=zX_0WVX4wEg",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 1,
+      "episode": 5,
+      "tags": "peppa,play,family"
+    },
+    {
+      "id": "peppa_s01e06",
+      "title": "Peppa Pig S01E06 - The Playgroup",
+      "url": "https://www.youtube.com/watch?v=0PpLfX2Irdk",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 1,
+      "episode": 6,
+      "tags": "peppa,school,playgroup"
+    },
+    {
+      "id": "peppa_s01e07",
+      "title": "Peppa Pig S01E07 - Mummy Pig at Work",
+      "url": "https://www.youtube.com/watch?v=K1JNv7E9Z-E",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 1,
+      "episode": 7,
+      "tags": "peppa,parents,work"
+    },
+    {
+      "id": "peppa_s01e08",
+      "title": "Peppa Pig S01E08 - Painting",
+      "url": "https://www.youtube.com/watch?v=jq8mTpt2y8E",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 1,
+      "episode": 8,
+      "tags": "peppa,art,home"
+    },
+    {
+      "id": "peppa_s01e09",
+      "title": "Peppa Pig S01E09 - Hiccups",
+      "url": "https://www.youtube.com/watch?v=G3JRk0bT-zQ",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 1,
+      "episode": 9,
+      "tags": "peppa,health,fun"
+    },
+    {
+      "id": "peppa_s01e10",
+      "title": "Peppa Pig S01E10 - Gardening",
+      "url": "https://www.youtube.com/watch?v=vjpIacFHf6w",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 1,
+      "episode": 10,
+      "tags": "peppa,nature,family"
+    },
+    {
+      "id": "peppa_s02e01",
+      "title": "Peppa Pig S02E01 - Bubbles",
+      "url": "https://www.youtube.com/watch?v=KPpEzuaY3sk",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 2,
+      "episode": 1,
+      "tags": "peppa,outdoors,play"
+    },
+    {
+      "id": "peppa_s02e02",
+      "title": "Peppa Pig S02E02 - George's Birthday",
+      "url": "https://www.youtube.com/watch?v=Y7DbR3vBlRk",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 2,
+      "episode": 2,
+      "tags": "peppa,family,party"
+    },
+    {
+      "id": "peppa_s02e03",
+      "title": "Peppa Pig S02E03 - Traffic",
+      "url": "https://www.youtube.com/watch?v=qu9B0wiRlOg",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 2,
+      "episode": 3,
+      "tags": "peppa,vehicles,city"
+    },
+    {
+      "id": "peppa_s02e04",
+      "title": "Peppa Pig S02E04 - The Toy Cupboard",
+      "url": "https://www.youtube.com/watch?v=YjLWL1w0XSQ",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 2,
+      "episode": 4,
+      "tags": "peppa,toys,home"
+    },
+    {
+      "id": "peppa_s02e05",
+      "title": "Peppa Pig S02E05 - School Bus Trip",
+      "url": "https://www.youtube.com/watch?v=Zs5mDGuY4Kw",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 2,
+      "episode": 5,
+      "tags": "peppa,school,travel"
+    },
+    {
+      "id": "peppa_s02e06",
+      "title": "Peppa Pig S02E06 - The Library",
+      "url": "https://www.youtube.com/watch?v=XqHPCmoIRPM",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 2,
+      "episode": 6,
+      "tags": "peppa,reading,school"
+    },
+    {
+      "id": "peppa_s02e07",
+      "title": "Peppa Pig S02E07 - Recycling",
+      "url": "https://www.youtube.com/watch?v=dQ9hHXtOgKE",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 2,
+      "episode": 7,
+      "tags": "peppa,environment,home"
+    },
+    {
+      "id": "peppa_s02e08",
+      "title": "Peppa Pig S02E08 - The Park",
+      "url": "https://www.youtube.com/watch?v=gXAJbVgE_UM",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 2,
+      "episode": 8,
+      "tags": "peppa,outdoors,play"
+    },
+    {
+      "id": "peppa_s02e09",
+      "title": "Peppa Pig S02E09 - Cuckoo Clock",
+      "url": "https://www.youtube.com/watch?v=rrTncIH1nKM",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 2,
+      "episode": 9,
+      "tags": "peppa,home,time"
+    },
+    {
+      "id": "peppa_s02e10",
+      "title": "Peppa Pig S02E10 - Baby Alexander",
+      "url": "https://www.youtube.com/watch?v=8ePb6P-cNAk",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 2,
+      "episode": 10,
+      "tags": "peppa,family,baby"
+    },
+    {
+      "id": "peppa_s03e01",
+      "title": "Peppa Pig S03E01 - The Big Carrot",
+      "url": "https://www.youtube.com/watch?v=DVv8Py_TYJs",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 3,
+      "episode": 1,
+      "tags": "peppa,gardening,family"
+    },
+    {
+      "id": "peppa_s03e02",
+      "title": "Peppa Pig S03E02 - The Boat Pond",
+      "url": "https://www.youtube.com/watch?v=7Hl4vZCBGE0",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 3,
+      "episode": 2,
+      "tags": "peppa,outdoors,play"
+    },
+    {
+      "id": "peppa_s03e03",
+      "title": "Peppa Pig S03E03 - Fruit Salad",
+      "url": "https://www.youtube.com/watch?v=tbF30yVNyqA",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 3,
+      "episode": 3,
+      "tags": "peppa,food,cooking"
+    },
+    {
+      "id": "peppa_s03e04",
+      "title": "Peppa Pig S03E04 - Miss Rabbit's Helicopter",
+      "url": "https://www.youtube.com/watch?v=NQQYlOEhSVw",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 3,
+      "episode": 4,
+      "tags": "peppa,vehicles,adventure"
+    },
+    {
+      "id": "peppa_s03e05",
+      "title": "Peppa Pig S03E05 - The Eye Doctor",
+      "url": "https://www.youtube.com/watch?v=kZEg4SnjrDA",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 3,
+      "episode": 5,
+      "tags": "peppa,health,doctor"
+    },
+    {
+      "id": "peppa_s04e01",
+      "title": "Peppa Pig S04E01 - Pottery",
+      "url": "https://www.youtube.com/watch?v=U9m1YJ6G6l4",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 4,
+      "episode": 1,
+      "tags": "peppa,art,family"
+    },
+    {
+      "id": "peppa_s04e02",
+      "title": "Peppa Pig S04E02 - The Baby Piggy",
+      "url": "https://www.youtube.com/watch?v=K7ZJ5aQ1pYk",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 4,
+      "episode": 2,
+      "tags": "peppa,baby,family"
+    },
+    {
+      "id": "peppa_s04e03",
+      "title": "Peppa Pig S04E03 - Breakfast",
+      "url": "https://www.youtube.com/watch?v=R5Rqz5iPnPg",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 4,
+      "episode": 3,
+      "tags": "peppa,food,morning"
+    },
+    {
+      "id": "peppa_s04e04",
+      "title": "Peppa Pig S04E04 - The New Car",
+      "url": "https://www.youtube.com/watch?v=MR8I5tjKqi0",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 4,
+      "episode": 4,
+      "tags": "peppa,vehicles,family"
+    },
+    {
+      "id": "peppa_s04e05",
+      "title": "Peppa Pig S04E05 - The Sleepover",
+      "url": "https://www.youtube.com/watch?v=L9c1tG3K8sM",
+      "duration_sec": 300,
+      "difficulty": 1,
+      "season": 4,
+      "episode": 5,
+      "tags": "peppa,friends,bedtime"
+    }
+  ]
+}

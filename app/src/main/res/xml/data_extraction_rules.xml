@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   Sample data extraction rules file; see https://developer.android.com/about/versions/12/backup-restore#xml-changes
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="database" path="morning_english.db" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="database" path="morning_english.db" />
+    </device-transfer>
+</data-extraction-rules>
